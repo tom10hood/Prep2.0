@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title></title>
+        <style> 
+            td {border:3px solid black;
+            border-right:none;
+            border bottom:auto
+            }
+        </style>
+         <link rel="stylesheet" type="text/css" href="style.css">
+        <style> 
+         body {
+             background-color: greenyellow
+         } 
+        </style>
+    <body>
+        <h1> Why I Love Zen Gardening</h1>
+        <p>Zen Garderning is very relaxing to me because from start to finish, the process is about promoting peace. The art of Zen Gardening is used for many purposes. The astheticly pleaseing gardens are a joy to all those who see it. </p>
+       <h2><h2> </h2>
+    <p>
+
+            <ul>
+                <li><a href="About.html">About Zen Gardening</a></li>
+                <li><a href="Contact.html">Sign up for our Newsletter </a></li>
+            </ul>
+        </p>
+        <p>
+        I created this page to express my love for Zen Gardening. Zen Gardening is something that can decrease stress and increase your quality of life. It changed my life after I got out of prison!
+        </p>
+        <p>
+        One thing I liked about the 
+        </p>
+            <tr>
+                <table cellpadding="10" cellspacing="5">
+            <style>
+            td {
+                border: 1px solid green;
+            }
+        </style>      
+    </body>
+</html>
